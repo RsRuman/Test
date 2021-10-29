@@ -1,4 +1,4 @@
-##'<meta name="csrf-token" content="{{ csrf_token() }}">'
+##'<meetaa name="csrf-token" content="{{ csrf_token() }}">'
 
 $.ajaxSetup({
 headers: {
